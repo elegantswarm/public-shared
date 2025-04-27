@@ -1,13 +1,13 @@
 # Elegant Swarm MVP candidate: self-service Micro-SaaS
 
-## North-Star
-Our long game is **self-driving startups**: a fleet of AI agents that ideate, validate, build, launch, and optimise with minimal human nudges.
+**North-Star:** Our long game is **self-driving startups**: a fleet of AI agents that ideate, validate, build, launch, and optimise with minimal human nudges.
 
-## MVP flavors
-
+## MVP
 - The *MVP* is the first rung on that ladder—productising the *strategy* phase so founders reach conviction (or fail fast) in hours, not months.
 - **The MVP is 1. a Slack bot, 2. updating Notion via API, or 3. a standalone web app**
 - Each flavor below is a combination of several features (see library at the end of this document). Other combinations are possible.
+
+### MVP flavors
 
 #### Foundational Knowledge Base  
 - In 2 h auto-creates Lean Canvas, personas, market sizing, simple financials, competitive overview & best-practice docs  
