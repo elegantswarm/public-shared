@@ -3,7 +3,7 @@
 **North-Star:** Our long game is **self-driving startups**: a fleet of AI agents that ideate, validate, build, launch, and optimise with minimal human nudges.
 
 ## MVP
-- The *MVP* is the first rung on that ladder—productising the *strategy* phase so founders reach conviction (or fail fast) in hours, not months.
+- This *MVP* would productise a subset of our agentic units early to generate multi-case traction (shallower and more systematic than a single anchor case).
 - **The MVP is 1. a Slack bot, 2. updating Notion via API, or 3. a standalone web app**
 - Each flavor below is a combination of several features (see library at the end of this document). Other combinations are possible.
 
