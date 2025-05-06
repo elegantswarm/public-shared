@@ -60,69 +60,73 @@ These feature candidates feed the *MVP packages* above. If people find some extr
 > [!NOTE]
 > Most of these features automatically update their outputs based on any input into the system by the user, reasoning, or research agents.
 
-### Discover & Ideate  
-- 01 **One-minute landing-page multiplier** — Generates a live landing page plus five headline/CTA variants, complete with analytics and a custom domain  
-- 02 **Stakeholder personas** — Auto-creates archetypes capturing pains, gains, jobs and channels  
-- 03 **ICP-in-my-network** — Scans your LinkedIn graph and surfaces 15 warm interview targets matching a selected persona  
-- 04 **Founder-Market-Fit profiler** — Psychometric questionnaire + AI scoring to show how well your strengths align with the chosen market  
-- 05 **Founder-Feedback synth** — Parses interview transcripts, extracts pain themes and quotable lines ranked by frequency  
-- 06 **Daily personal podcast** - Deep researches market facts, figures, and competitive insights and returns engaging 10min short-form podcast
-
-### Validate  
-- 06 **Cold-email synthesiser** — Crafts personalised outreach emails (with Calendly link) for any persona in one click  
-- 07 **Synthetic user-testing report** — AI personas run tasks on a page/prototype and log UX issues with screenshots  
-- 08 **Lean canvas** — Auto-fills and keeps a live Lean Canvas from discovery answers and public research  
-- 09 **Assumption map** — Visual matrix highlighting high-risk hypotheses and their evidence status  
-- 10 **Simple financial model** — 4-month cash-flow with runway slider and burn chart  
-- 11 **Go / No-Go scorecard** — Five-factor rubric that outputs pursue/pause/kill verdicts  
-- 12 **Pivot-idea recommender** — Suggests three adjacent problems with higher TAM when the scorecard is red  
-- 13 **Market-sizing sheet** — Builds TAM/SAM/SOM with CAGR and citations, exportable to deck  
-- 14 **Persona outreach synthesiser** — Finds ideal-customer contacts on LinkedIn and drafts tailored outreach mails
-
-### Plan & Design  
-- 15 **Competitive overview** — Narrative synthesis of landscape gaps and overcrowded niches  
-- 16 **Competitive grid** — Feature-by-player matrix exposing differentiation opportunities  
-- 17 **Positioning statement** — Geoffrey-Moore-style "For X … our Y" line auto-crafted from discovery answers  
-- 18 **Domain-grab radar** — Generates ten brandable available domains in .com/.io/.co/.ai, etc.  
-- 19 **Instant press kit** — AI-creates logo options, 50-word boilerplate and up-scaled head-shot in a zip  
-- 20 **Pitch-deck content generator** — Drafts slide copy blocks and suggests deck builders  
-- 21 **One-pager PDF auto-brander** — Compiles Lean Canvas & KPIs into a branded PDF for quick pitches  
-- 22 **One-click Notion export** — Spins up a Notion workspace mirroring the knowledge base  
-- 23 **Narrative Sync Engine** — Propagates a consistent brand voice across deck, landing page, emails and in-app copy  
-- 24 **Vision-to-Roadmap compiler** — Converts strategy docs into a prioritised 12-week backlog with builder prompts synced to Linear/Jira  
-- 25 **Prompt-to-prototype pack** — Ready-made prompts for Lovable/v0 that turn specs into functional demos fast  
-
-### Launch  
-- 26 **Competitor delta alerts** — Nightly diffs on rivals' pricing pages, changelogs and release notes  
-- 27 **Brand kit prompt** — Curates prompt recipes for generating logo, colours and typography assets  
-- 28 **Launch-hype autoplotter** — Generates and schedules a 30-day on-brand social drip campaign from your KB  
-- 29 **Market-shock radar** — Monitors regulation, funding waves and macro news; scores their impact on your plan  
-
-### Grow  
-- 30 **Ecosystem heat-map** — Interactive price-vs-complexity plot of competitors and partners  
-- 31 **Talent-pool pulse** — Tracks competitor job openings and salary bands to time your hiring  
-- 32 **Competitor research table** — Structured sheet with founding year, funding, pricing model and traction signals  
-- 33 **Domain context brief** — One-page explainer of industry dynamics and regulatory headwinds  
-- 34 **Funding-timeline tracker** — Charts median time from pre-seed to Series A in your niche  
-- 35 **Pre-seed valuation benchmarker** — Shows dilution impact for typical raise sizes vs. recent rounds  
-- 36 **VC-thesis matcher** — Lists investors whose theses align with your problem space  
-- 37 **Industry news aggregation** — One-click signup/aggregation of newsletters, industry news, social feeds
-- 38 **Referral rewards engine** — Embeds trackable invite codes in every export with 50 % credit kickback  
-- 39 **VIP scan** — Weekly expert advice and warm intros to the 10 strongest startups in the system  
-- 40 **Tech-stack path-finder** — Maps roadmap epics into buy | AI-generate | open-source recommendations  
-- 41 **Domain-hook scorer** — Generates 1 000 domains + taglines and ranks them by memorability and SEO strength  
-- 42 **Runway-vs-Revenue simulator** — Monte-Carlo runway calculator linking burn, growth assumptions and Stripe test data  
 
 ### Operate & Protect  
-- 43 **No more knowledge loss** — The perfect knowledge base: extracts Slack/transcripts/Notion, follows industry playbooks.
-- 44 **Live industry feed** — Continuous scrape of key blogs, forums and social chatter in your niche  
-- 45 **Auto-LinkedIn drill-downs** — Each competitor card links to curated LinkedIn searches of team alumni  
-- 46 **Competitor churn detector** — Flags rivals with layoffs or negative Glassdoor trends  
-- 47 **AI Data-Room prepacker** — One-click VC-ready zip with deck, metrics, cap table and red-flag summary  
-- 48 **Synthetic advisory board** — Multi-agent panel of virtual experts delivering structured critique and action items  
-- 49 **Privacy & Terms Generator PRO** — Drafts GDPR/CCPA-compliant legal docs and auto-updates when data flows change  
-- 50 **Crisis drill master** — Simulates outage, PR or compliance crises and outputs playbooks plus comms templates  
-- 51 **Exit-Path simulator** — Models strategic, PE and acqui-hire exits with dilution, valuation and timeline projections  
+- 01 **No more knowledge loss** — The perfect knowledge base: extracts Slack/transcripts/Notion, follows industry playbooks.
+- 02 **Live industry feed** — Continuous scrape of key blogs, forums and social chatter in your niche  
+- 03 **Auto-LinkedIn drill-downs** — Each competitor card links to curated LinkedIn searches of team alumni  
+- 04 **Competitor churn detector** — Flags rivals with layoffs or negative Glassdoor trends  
+- 05 **AI data-room prepacker** — One-click VC-ready zip with deck, metrics, cap table and red-flag summary  
+- 06 **Synthetic advisory board** — Multi-agent panel of virtual experts delivering structured critique and action items  
+- 07 **Privacy & Terms Generator PRO** — Drafts GDPR/CCPA-compliant legal docs and auto-updates when data flows change  
+- 08 **Crisis drill master** — Simulates outage, PR or compliance crises and outputs playbooks plus comms templates  
+- 09 **Exit-path simulator** — Models strategic, PE and acqui-hire exits with dilution, valuation and timeline projections  
+- 10 **Prompt factory** — Boost response quality, turn slapdash questions into A-player prompts with full business context.
+- 11 **LLM chat forks** — Continue a previous LLM chat at any point to keep context fresh (and share with others)
+
+
+### Discover & Ideate  
+- 12 **One-minute landing-page multiplier** — Generates a live landing page plus five headline/CTA variants, complete with analytics and a custom domain  
+- 13 **Stakeholder personas** — Auto-creates archetypes capturing pains, gains, jobs and channels  
+- 14 **ICP-in-my-network** — Scans your LinkedIn graph and surfaces 15 warm interview targets matching a selected persona  
+- 15 **Founder-Market-Fit profiler** — Psychometric questionnaire + AI scoring to show how well your strengths align with the chosen market  
+- 16 **Founder-Feedback synth** — Parses interview transcripts, extracts pain themes and quotable lines ranked by frequency  
+- 17 **Daily personal podcast** - Deep researches market facts, figures, and competitive insights and returns engaging 10min short-form podcast
+
+### Validate  
+- 18 **Cold-email synthesiser** — Crafts personalised outreach emails (with Calendly link) for any persona in one click  
+- 19 **Synthetic user-testing report** — AI personas run tasks on a page/prototype and log UX issues with screenshots  
+- 20 **Lean canvas** — Auto-fills and keeps a live Lean Canvas from discovery answers and public research  
+- 21 **Assumption map** — Visual matrix highlighting high-risk hypotheses and their evidence status  
+- 22 **Simple financial model** — 4-month cash-flow with runway slider and burn chart  
+- 23 **Go / No-Go scorecard** — Five-factor rubric that outputs pursue/pause/kill verdicts  
+- 24 **Pivot-idea recommender** — Suggests three adjacent problems with higher TAM when the scorecard is red  
+- 25 **Market-sizing sheet** — Builds TAM/SAM/SOM with CAGR and citations, exportable to deck  
+- 26 **Persona outreach synthesiser** — Finds ideal-customer contacts on LinkedIn and drafts tailored outreach mails
+
+### Plan & Design  
+- 27 **Competitive overview** — Narrative synthesis of landscape gaps and overcrowded niches  
+- 28 **Competitive grid** — Feature-by-player matrix exposing differentiation opportunities  
+- 29 **Positioning statement** — Geoffrey-Moore-style "For X … our Y" line auto-crafted from discovery answers  
+- 30 **Domain-grab radar** — Generates ten brandable available domains in .com/.io/.co/.ai, etc.  
+- 31 **Instant press kit** — AI-creates logo options, 50-word boilerplate and up-scaled head-shot in a zip  
+- 32 **Pitch-deck content generator** — Drafts slide copy blocks and suggests deck builders  
+- 33 **One-pager PDF auto-brander** — Compiles Lean Canvas & KPIs into a branded PDF for quick pitches  
+- 34 **One-click Notion export** — Spins up a Notion workspace mirroring the knowledge base  
+- 35 **Narrative Sync Engine** — Propagates a consistent brand voice across deck, landing page, emails and in-app copy  
+- 36 **Vision-to-Roadmap compiler** — Converts strategy docs into a prioritised 12-week backlog with builder prompts synced to Linear/Jira  
+- 37 **Prompt-to-prototype pack** — Ready-made prompts for Lovable/v0 that turn specs into functional demos fast  
+
+### Launch  
+- 38 **Competitor delta alerts** — Nightly diffs on rivals' pricing pages, changelogs and release notes  
+- 39 **Brand kit prompt** — Curates prompt recipes for generating logo, colours and typography assets  
+- 40 **Launch-hype autoplotter** — Generates and schedules a 30-day on-brand social drip campaign from your KB  
+- 41 **Market-shock radar** — Monitors regulation, funding waves and macro news; scores their impact on your plan  
+
+### Grow  
+- 42 **Ecosystem heat-map** — Interactive price-vs-complexity plot of competitors and partners  
+- 43 **Talent-pool pulse** — Tracks competitor job openings and salary bands to time your hiring  
+- 44 **Competitor research table** — Structured sheet with founding year, funding, pricing model and traction signals  
+- 45 **Domain context brief** — One-page explainer of industry dynamics and regulatory headwinds  
+- 46 **Funding-timeline tracker** — Charts median time from pre-seed to Series A in your niche  
+- 47 **Pre-seed valuation benchmarker** — Shows dilution impact for typical raise sizes vs. recent rounds  
+- 48 **VC-thesis matcher** — Lists investors whose theses align with your problem space  
+- 49 **Industry news aggregation** — One-click signup/aggregation of newsletters, industry news, social feeds
+- 50 **Referral rewards engine** — Embeds trackable invite codes in every export with 50 % credit kickback  
+- 51 **VIP scan** — Weekly expert advice and warm intros to the 10 strongest startups in the system  
+- 52 **Tech-stack path-finder** — Maps roadmap epics into buy | AI-generate | open-source recommendations  
+- 53 **Domain-hook scorer** — Generates 1 000 domains + taglines and ranks them by memorability and SEO strength  
+- 54 **Runway-vs-Revenue simulator** — Monte-Carlo runway calculator linking burn, growth assumptions and Stripe test data  
 
 ### Post-MVP capabilities
 - Automated end-user billing setup
